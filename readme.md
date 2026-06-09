@@ -12,6 +12,10 @@ https://github.com/user-attachments/assets/daf14475-6878-4553-8284-d4ef6c2db285
 ## Data Example
 Here is an example of `feature.json` of datasets in RLDS format.
 ![image](https://github.com/QingFeng34048/image-and-video/blob/main/feature.png)
+
+Here is an example of `dataset_info.json` of datasets in RLDS format.
+![image](https://github.com/QingFeng34048/image-and-video/blob/main/info.png)
+
 ## Fine-Tuning
 Refer to `openvla-oft/README.md` for environment setup instructions. After manually configuring all file paths, run `openvla-oft/vla-scripts/finetune.sh`. The core fine-tuning code is located at `openvla-oft/vla-scripts/finetune.py`.
 ## Fine-Tuning Result Validation
